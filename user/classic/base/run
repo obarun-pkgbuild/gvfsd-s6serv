@@ -1,0 +1,4 @@
+#!@BINDIR_EXECLINE@/execlineb -P
+fdmove -c 2 1
+/usr/lib/gvfs/gvfsd -r
+
